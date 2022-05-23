@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "superbowlgrafikus", "superbowlgrafikus\superbowlgrafikus.csproj", "{9CC996D9-D339-43C3-A889-347A1EC1362F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC996D9-D339-43C3-A889-347A1EC1362F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC996D9-D339-43C3-A889-347A1EC1362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC996D9-D339-43C3-A889-347A1EC1362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC996D9-D339-43C3-A889-347A1EC1362F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7686B4F4-FF24-4034-B09B-F9089FBB5836}
+	EndGlobalSection
+EndGlobal
